@@ -1,0 +1,67 @@
+# 📊 Análisis de Ventas Mensuales y Pronóstico
+
+Este repositorio contiene un ejercicio de analítica desarrollado con el objetivo de demostrar el planteamiento de una **pregunta analítica clara**, el uso coherente de métricas y la **comunicación efectiva de resultados mediante visualizaciones**.
+
+El panel fue construido y publicado en **Tableau Public**, con acceso completamente abierto.
+
+---
+
+## 🧩 Pregunta Analítica
+
+**¿Cómo han evolucionado las ventas mensuales y qué nivel de ventas se puede esperar en los próximos dos años considerando la estacionalidad del negocio?**
+
+---
+
+## 📌 Contexto
+
+El análisis se construyó utilizando un **conjunto de datos de origen propio**, diseñado para representar un escenario realista de ventas mensuales con variabilidad y patrones estacionales.
+
+El foco del ejercicio no está en la complejidad técnica, sino en:
+- La correcta formulación del problema analítico  
+- La coherencia entre datos, métricas y visualizaciones  
+- La claridad en la interpretación y comunicación de resultados  
+
+---
+
+## 📈 Respuesta Analítica
+
+El análisis muestra que las ventas mensuales presentan una alta variabilidad a lo largo del tiempo, sin una tendencia de crecimiento estructural clara, pero con un patrón estacional recurrente. A partir de este comportamiento histórico, se construyó un modelo de pronóstico que replica dicha estacionalidad y proyecta el desempeño esperado para los próximos dos años.
+
+El pronóstico sugiere que las ventas futuras se mantendrían dentro de rangos consistentes con el comportamiento histórico, con fluctuaciones mensuales similares a las observadas previamente. Además, el uso de intervalos de predicción permite visualizar la incertidumbre asociada a estas estimaciones, proporcionando una visión realista tanto del valor esperado como de los posibles escenarios futuros.
+
+---
+
+## 🛠️ Metodología
+
+- **Granularidad:** ventas mensuales  
+- **Período histórico:** 2020 – 2024  
+- **Horizonte de pronóstico:** 2025 – 2026  
+- **Modelo:** ETS (Exponential Smoothing)  
+- **Estacionalidad:** aditiva  
+- **Intervalo de predicción:** 90 %
+
+---
+
+## 📂 Fuente de Datos
+
+- **Origen:** conjunto de datos de origen propio  
+- **Uso:** fines analíticos y demostrativos  
+
+---
+
+## 🔗 Dashboard Público
+
+👉 *Agregar aquí el enlace a Tableau Public*
+
+---
+
+## 📎 Herramientas Utilizadas
+
+- Tableau Public  
+- CSV (datos de entrada)  
+
+---
+
+## ℹ️ Notas
+
+Este proyecto fue desarrollado como parte de un desafío de analítica con el objetivo de evaluar el razonamiento analítico, la estructuración del análisis y la comunicación de insights a partir de datos.
