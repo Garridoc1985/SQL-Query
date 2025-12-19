@@ -51,7 +51,7 @@ El pronóstico sugiere que las ventas futuras se mantendrían dentro de rangos c
 
 ## 🔗 Dashboard Público
 
-👉 *(https://public.tableau.com/app/profile/sebastian.andres.garrido.cood)*
+👉 *(https://public.tableau.com/views/DesafioPanel/Dashboard1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*
 
 ---
 
