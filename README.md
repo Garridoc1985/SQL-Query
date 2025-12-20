@@ -41,7 +41,18 @@ El pronóstico sugiere que las ventas futuras se mantendrían dentro de rangos c
 
 ## 📂 Fuente de Datos
 
-- **Origen:** conjunto de datos de origen propio  
+- **Origen:** conjunto de datos de origen propio ( Mackaroo)
+- Código de integración/preparación (SQL): definición de tablas + vistas + funciones + stored procedures + triggers (automatizan extracción parametrizada, agregaciones y validaciones).
+
+Modelo entidad relación 
+- <img width="1157" height="1048" alt="image" src="https://github.com/user-attachments/assets/4047b14e-a588-442a-b284-3827948d5faa" />
+
+Diagrama entidad relacion EER 
+
+<img width="921" height="1190" alt="image" src="https://github.com/user-attachments/assets/d6cf0575-62e0-4115-b53a-db54705e77d6" />
+
+
+- Limpieza: auditoría de cambios/borrados para control de calidad y trazabilidad.
 - **Uso:** fines analíticos y demostrativos  
 
 ---
