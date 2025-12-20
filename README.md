@@ -16,10 +16,7 @@ El panel fue construido y publicado en **Tableau Public**, con acceso completame
 
 El análisis se construyó utilizando un **conjunto de datos de origen propio**, diseñado para representar un escenario realista de ventas mensuales con variabilidad y patrones estacionales.
 
-El foco del ejercicio no está en la complejidad técnica, sino en:
-- La correcta formulación del problema analítico  
-- La coherencia entre datos, métricas y visualizaciones  
-- La claridad en la interpretación y comunicación de resultados  
+
 
 ---
 
