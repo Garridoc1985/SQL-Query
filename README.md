@@ -45,7 +45,7 @@ El pronóstico sugiere que las ventas futuras se mantendrían dentro de rangos c
 - Código de integración/preparación (SQL): definición de tablas + vistas + funciones + stored procedures + triggers (automatizan extracción parametrizada, agregaciones y validaciones).
 
 Modelo entidad relación 
-- <img width="1157" height="1048" alt="image" src="https://github.com/user-attachments/assets/4047b14e-a588-442a-b284-3827948d5faa" />
+<img width="1157" height="1048" alt="image" src="https://github.com/user-attachments/assets/4047b14e-a588-442a-b284-3827948d5faa" />
 
 Diagrama entidad relacion EER 
 
