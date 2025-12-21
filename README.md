@@ -67,7 +67,6 @@ Diagrama entidad relacion EER
 
 - Tableau Public  
 - CSV (datos de entrada)  
-
 ---
 
 ## ℹ️ Notas
